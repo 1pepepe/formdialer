@@ -101,7 +101,7 @@ export default function ContactForm() {
       <div className="field ">
         <label className="label">電話番号</label>
         <div className="control">
-          <input className="input" type="text" placeholder="+819011112222" onChange={handlePhoneNumberChange} />
+          <input className="input" type="text" placeholder="090-1111-2222" onChange={handlePhoneNumberChange} />
         </div>
       </div>
 
